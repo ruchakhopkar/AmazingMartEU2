@@ -1,6 +1,6 @@
 # AmazingMartEU2
 Using maps and scatterplots in Tableau 
-<br />
+\
 <b> Challenge: </b>
 To visualize the profit margin occurring across different states in different years separately.
 Scatterplot of profit through every customer.
