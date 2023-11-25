@@ -17,6 +17,7 @@ Scatterplot of profit through every customer.
 9. Use 1 worksheet 'As a filter'/ generated actions.
 10. Creating an action manually.
 11. Difference between Filtering and Highlighting. Filtering filters the rows in the data based on the selected data and shows that in the scatterplot. However, highlighting doesnt work that way, and it will highlight customers based on the level fo granularity.
+12. The reasons to do a blend instead of a join: different levels of granularity, different data sources
 
 Analysis: https://public.tableau.com/app/profile/rucha.khopkar/viz/AmazingMartEU2_17008678673270/Dashboard1
 
